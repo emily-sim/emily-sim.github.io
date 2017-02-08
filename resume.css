@@ -1,0 +1,30 @@
+#header {
+    color: black;
+    text-align: center;
+}
+
+p {
+    margin-left: 20px;
+}
+
+.title { 
+  font-weight: bold;
+}
+
+.date { 
+  text-align: right;
+}
+
+.role { 
+  font-style: italic;
+}
+
+body {
+    background-color: aliceblue;
+    font-size: 16px;
+    font-family: raleway;
+    margin-top: 50px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+}
