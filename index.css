@@ -6,15 +6,7 @@ h1 {
     width: 34%;
     position: absolute;
     margin-left: 33%;
-}
-
-.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    color: initial;
+    margin-top: 100px;
 }
 
 body {
